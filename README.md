@@ -5,13 +5,13 @@ This is a repo for implementing object detection with pre-trained models (as sho
 ### Installation
 
 ```bash 
-git clone git@github.com:Skycatch/pipeline-demo.git
+git clone git@github.com:Skycatch/ace-detection-of-tennis-players.git
 
-cd pipeline-demo
+cd ace-detection-of-tennis-players
 ```
 ### download tensorflow object detection repo
 
-```cd pipeline-demo```
+```cd pace-detection-of-tennis-players```
 
 ```git clone https://github.com/tensorflow/models.git ```
 
@@ -20,7 +20,7 @@ cd pipeline-demo
 
 Install `docker` from here https://docs.docker.com/engine/installation/.
 
-`cd pipeline-demo`
+`cd ace-detection-of-tennis-players`
 
 ```docker build . -t object-detection```
 
