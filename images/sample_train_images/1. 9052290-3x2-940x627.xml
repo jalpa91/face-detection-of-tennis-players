@@ -1,0 +1,26 @@
+<annotation>
+	<folder>federer</folder>
+	<filename>1. 9052290-3x2-940x627.jpg</filename>
+	<path>C:\Users\Nirjalpa\Desktop\ITU SUBJECTS\capston project\federer\1. 9052290-3x2-940x627.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>627</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roger federer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>123</ymin>
+			<xmax>452</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
