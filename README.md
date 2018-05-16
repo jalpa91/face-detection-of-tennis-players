@@ -53,3 +53,9 @@ We are using ssd_inception_v2_coco_11_06_2017 pre-trained model. (Download model
 
 - We can configure batchsize and number of classes, according to our hardware configuration. Also replace the variable `PATH_TO_BE_CONFIGURED` in the config file with `pretrained_model/ssd_inception_v2_coco_11_06_2017` also update the train and test.record to point to right directory - in oour case its under `data/` directory.
 
+### Run the demo
+
+`cd models/research/object_detection/`
+Open `jupyter notebook`
+Open `object_detection_face.ipynb`
+- Run the ipython notebook and it would start the web camp and you have to pass the images or video near to webcamp.
