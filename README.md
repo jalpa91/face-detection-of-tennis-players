@@ -1,7 +1,8 @@
 # face-detection-of-tennis-players
 This is a repo for implementing object detection with pre-trained models (as shown below) on tensorflow.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_gZYxlZ7yo4?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+# Video
+https://youtu.be/_gZYxlZ7yo4
 
 ### Installation
 
